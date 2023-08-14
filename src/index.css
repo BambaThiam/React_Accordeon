@@ -258,6 +258,10 @@ ul {
 body {
   background: var(--primary-100);
 }
+
+.titleBamba {
+  margin: 3rem auto;
+}
 main {
   min-height: 100vh;
   /* using flex because of better browser support */
